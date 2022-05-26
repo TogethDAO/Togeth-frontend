@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1254px" height="559px" viewBox="0 0 1254 559" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>bg all</title>
+    <defs>
+        <filter x="-0.2%" y="-0.8%" width="100.5%" height="101.7%" filterUnits="objectBoundingBox" id="filter-1">
+            <feGaussianBlur stdDeviation="1" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-100.0%" y="-100.0%" width="300.0%" height="300.0%" filterUnits="objectBoundingBox" id="filter-2">
+            <feGaussianBlur stdDeviation="6" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-60.0%" y="-60.0%" width="220.0%" height="220.0%" filterUnits="objectBoundingBox" id="filter-3">
+            <feGaussianBlur stdDeviation="2" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-0.5%" y="-1.8%" width="101.0%" height="103.5%" filterUnits="objectBoundingBox" id="filter-4">
+            <feGaussianBlur stdDeviation="2" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-0.2%" y="-0.9%" width="100.5%" height="101.8%" filterUnits="objectBoundingBox" id="filter-5">
+            <feGaussianBlur stdDeviation="1" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-0.3%" y="-1.1%" width="100.5%" height="102.2%" filterUnits="objectBoundingBox" id="filter-6">
+            <feGaussianBlur stdDeviation="1" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-66.7%" y="-66.7%" width="233.3%" height="233.3%" filterUnits="objectBoundingBox" id="filter-7">
+            <feGaussianBlur stdDeviation="4" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-60.0%" y="-60.0%" width="220.0%" height="220.0%" filterUnits="objectBoundingBox" id="filter-8">
+            <feGaussianBlur stdDeviation="2" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <linearGradient x1="31.875%" y1="7.60074013%" x2="60.3351151%" y2="84.1200658%" id="linearGradient-9">
+            <stop stop-color="#ADEBFF" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" offset="100%"></stop>
+        </linearGradient>
+        <filter x="-48.2%" y="-42.9%" width="196.4%" height="185.7%" filterUnits="objectBoundingBox" id="filter-10">
+            <feGaussianBlur stdDeviation="22" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-48.2%" y="-42.9%" width="196.4%" height="185.7%" filterUnits="objectBoundingBox" id="filter-11">
+            <feGaussianBlur stdDeviation="22" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <linearGradient x1="94.3418517%" y1="50%" x2="-2.65466315%" y2="56.2490771%" id="linearGradient-12">
+            <stop stop-color="#1CCCFF" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="19.4728733%" y1="67.0456287%" x2="94.2335204%" y2="50%" id="linearGradient-13">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="41.253325%" y1="65.8326467%" x2="60.1650456%" y2="35.1910553%" id="linearGradient-14">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="我的-my-create-operate-01" transform="translate(-94.000000, -410.000000)">
+            <g id="bg-all" transform="translate(101.000000, 414.000000)">
+                <g id="bg_line">
+                    <g id="编组-2" opacity="0.8">
+                        <path d="M0,300.358146 C39.6126465,299.220029 88.8316428,259.26312 147.656989,180.48742 C235.895008,62.3238712 276.018615,-30.2689218 351.072368,9.26568525 C426.126121,48.8002923 574.711727,389.81418 749.693193,414.092022 C924.674659,438.369865 982.197119,413.301037 1066.52538,335.464698 C1122.74422,283.573806 1180.90243,271.871622 1241,300.358146" id="路径-38" stroke="#A1E0FF" filter="url(#filter-1)"></path>
+                        <g id="编组-3" transform="translate(29.000000, 277.000000)">
+                            <circle id="椭圆形" fill="#88D8F1" filter="url(#filter-2)" cx="9" cy="9" r="9"></circle>
+                            <circle id="椭圆形" fill="#FFFFFF" filter="url(#filter-3)" cx="9" cy="9" r="5"></circle>
+                        </g>
+                        <path d="M0,481.896755 C83.1386923,464.082291 154.120712,415.827054 212.946058,337.131046 C301.184077,219.087032 351.831585,191.311847 426.885338,230.806461 C501.939091,270.301074 554.04975,534.533351 704.477444,547.41398 C854.905138,560.29461 882.920399,357.4977 973.768393,268.24885 C1034.33372,208.749617 1123.41092,179 1241,179" id="路径-38" stroke="#ED9697" filter="url(#filter-4)"></path>
+                        <path d="M0,468.691163 C39.0380876,467.561302 87.5431903,427.894262 145.515308,349.690043 C232.473485,232.383714 268.20553,196.159777 342.170671,235.407579 C416.135812,274.655381 516.144051,525.558255 688.58751,549.659974 C861.030969,573.761693 901.503944,265.755645 998.859962,188.116356 C1063.76397,136.356831 1138.47732,145.270839 1223,214.858382" id="路径-38" stroke="#FFDB9A" filter="url(#filter-5)" transform="translate(611.500000, 353.000000) scale(1, -1) translate(-611.500000, -353.000000) "></path>
+                        <path d="M0,413.974638 C-0.349884104,387.649207 48.8718907,320.805163 147.665324,213.442506 C295.855475,52.3985205 439.356852,410.920082 518.777622,413.974638 C598.198392,417.029194 594.447655,143.110099 769.427787,167.279577 C838.337962,176.797932 909.369421,321.551627 978.44492,329.122056 C1084.76935,340.774837 1066.08022,75.0652337 1241,97.3251647" id="路径-38" stroke="#FDBD00" filter="url(#filter-6)" transform="translate(620.500000, 255.000000) scale(1, -1) translate(-620.500000, -255.000000) "></path>
+                        <g id="编组-3" transform="translate(565.000000, 159.000000)">
+                            <circle id="椭圆形" fill="#FDBD00" filter="url(#filter-7)" cx="9" cy="9" r="9"></circle>
+                            <circle id="椭圆形" fill="#FFFFFF" filter="url(#filter-8)" cx="9" cy="9" r="5"></circle>
+                        </g>
+                    </g>
+                    <circle id="椭圆形" fill="url(#linearGradient-9)" opacity="0.746372768" cx="344" cy="299" r="190"></circle>
+                </g>
+                <circle id="椭圆形" fill="#ACEAFF" cx="278" cy="404" r="25"></circle>
+                <ellipse id="椭圆形备份-2" fill="#FFDB9A" opacity="0.646065848" filter="url(#filter-10)" transform="translate(478.089844, 288.000000) scale(-1, 1) rotate(-9.000000) translate(-478.089844, -288.000000) " cx="478.089844" cy="288" rx="68.5" ry="77"></ellipse>
+                <circle id="椭圆形备份" fill="#FFDB9A" cx="526" cy="339" r="34"></circle>
+                <ellipse id="椭圆形" fill="#C7F1FF" filter="url(#filter-11)" transform="translate(189.089844, 356.000000) rotate(-9.000000) translate(-189.089844, -356.000000) " cx="189.089844" cy="356" rx="68.5" ry="77"></ellipse>
+                <g id="right" transform="translate(154.252090, 109.000000)" fill="url(#linearGradient-12)">
+                    <path d="M192.74791,0 C255.869784,0 312.754387,26.7049294 352.720007,69.4330755 C353.748845,70.5330291 353.382376,71.8309308 352.892289,73.1544579 L352.628271,73.8565957 C352.336816,74.6394501 352.080432,75.4206398 352.120099,76.1648 C348.563949,76.9252264 345.012223,77.6731487 341.464521,78.4099241 C304.160235,38.9576622 251.328373,14.3449782 192.74791,14.3449782 C117.744556,14.3449782 52.164824,54.6923037 16.5291577,114.866512 C11.9860576,114.912328 7.44561949,114.933594 2.91285756,114.933594 C1.93632058,114.933594 0.965368056,114.933998 -2.13609606e-12,114.934805 C37.0380977,46.489504 109.463901,0 192.74791,0 Z" id="形状结合"></path>
+                </g>
+                <path d="M271.475063,215.949908 C275.814304,215.655135 279.862231,217.147093 282.89904,219.797555 C285.93585,222.448017 287.961542,226.256982 288.256315,230.596224 C288.322472,231.570098 288.297952,232.548013 288.18307,233.517347 L288.18307,233.517347 L268.469552,399.853655 C267.999873,403.816648 266.085103,407.290734 263.29007,409.774072 C260.495037,412.25741 256.819741,413.75 252.829012,413.75 L252.829012,413.75 L94.0838107,413.75 C89.7345683,413.75 85.7970683,411.987121 82.9468789,409.136932 C80.0966895,406.286742 78.3338107,402.349242 78.3338107,398 C78.3338107,397.195291 78.3954827,396.391765 78.518285,395.59648 L78.518285,395.59648 L102.583249,239.748443 C103.145449,236.107556 104.932181,232.904834 107.497253,230.549912 C110.062326,228.19499 113.40574,226.687867 117.081307,226.438179 L117.081307,226.438179 Z" id="1" stroke="url(#linearGradient-13)" stroke-width="1.5" fill-opacity="0.345580201" fill="#FFFFFF" transform="translate(183.078125, 314.236328) scale(-1, 1) translate(-183.078125, -314.236328) "></path>
+                <path d="M594.857858,174.8949 C599.202251,174.689567 603.218587,176.264586 606.200159,178.977037 C609.181731,181.689487 611.128538,185.539369 611.333871,189.883762 C611.387448,191.017344 611.318351,192.153397 611.127784,193.27213 L611.127784,193.27213 L587.256646,333.408497 C586.611994,337.192953 584.649891,340.469255 581.889208,342.799443 C579.128526,345.12963 575.569264,346.513704 571.730296,346.513704 L571.730296,346.513704 L367.213775,346.513704 C362.864533,346.513704 358.927033,344.750826 356.076844,341.900636 C353.226654,339.050447 351.463775,335.112947 351.463775,330.763704 C351.463775,329.61598 351.589229,328.471695 351.8379,327.351234 L351.8379,327.351234 L380.84791,196.63822 C381.617736,193.169547 383.501256,190.173427 386.079597,188.00254 C388.657938,185.831652 391.9311,184.485997 395.48021,184.318252 L395.48021,184.318252 Z" id="2" stroke="url(#linearGradient-14)" stroke-width="1.5" fill-opacity="0.345580201" fill="#FFFFFF" transform="translate(481.019747, 260.263704) rotate(7.000000) translate(-481.019747, -260.263704) "></path>
+            </g>
+        </g>
+    </g>
+</svg>

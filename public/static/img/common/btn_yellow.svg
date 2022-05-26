@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg preserveAspectRatio="none" width="120px" height="47px" viewBox="0 0 120 47" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>btn_yellow</title>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="首页2.0" transform="translate(-1034.000000, -962.000000)" stroke="#1C1C1C" stroke-width="1.5">
+            <g id="编组-18备份" transform="translate(172.000000, 888.000000)">
+                <g id="编组-9" transform="translate(862.000000, 35.000000)">
+                    <g id="btn_yellow" transform="translate(0.000000, 39.000000)">
+                        <path d="M113.916439,0.889630486 L119.25,9.21485526 L119.25,45.8615702 L7.00349658,45.8615702 L1.16432814,36.8716896 L113.916439,0.889630486 Z" id="矩形" fill="#FBBB06"></path>
+                        <rect id="矩形" fill="#FFE502" x="0.75" y="0.75" width="112.549587" height="36.1859504"></rect>
+                        <line x1="113.057851" y1="36.6942149" x2="119.008264" y2="45.6198347" id="路径-19" stroke-linecap="round"></line>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,57 @@
+{
+	"messages": {
+		"copied": "{{text}} 已复制到剪切板。"
+	},
+	"buttons": {
+		"confirm": "确认",
+		"cancel": "取消",
+		"complete": "完成"
+	},
+	"enums": {
+		"walletName": {
+			"NeoLine": "NeoLine",
+			"O3": "O3",
+			"OneGate": "OneGate",
+			"NeonWallet": "NeonWallet"
+		},
+		"walletMainNet": {
+			"NeoLine": "N3 主网",
+			"O3": "N3 主网",
+			"OneGate": "主网",
+			"NeonWallet": "主网"
+		},
+		"walletTestNet": {
+			"NeoLine": "N3 测试网",
+			"O3": "N3 测试网",
+			"OneGate": "测试网",
+			"NeonWallet": "测试网"
+		}
+	},
+	"errors": {
+		"wallet": {
+			"UnknownError": "未知钱包错误.",
+			"NotInstalled": "钱包尚未安装.",
+			"NotConnected": "钱包未链接.",
+			"IncorrectNetwork": "请在 {{walletName}} 钱包将当前网络切换至 {{walletNetwork}}.",
+			"UserRejected": "请求已被用户拒绝.",
+			"MalformedInput": "输入错误.",
+			"InsufficientFunds": "余额不足.",
+			"CommunicateFailed": "钱包通讯失败.",
+			"RemoteRpcError": "钱包服务器通讯失败",
+			"VersionNotCompatible": "钱包版本不兼容，请升级至最新版本.",
+			"NoAccount": "No account.",
+			"UnsupportedNetwork": "Unsupported network."
+		},
+		"backend": {
+			"UnknownError": "未知请求错误.",
+			"NetworkError": "网络错误.",
+			"BadRequest": "请求错误.",
+			"InternalServiceError": "服务器内部错误.",
+			"NotFound": "未找到."
+		},
+		"setAdmin": {
+			"IncorrectAdmin": "管理员应为 {{accepter}}.",
+			"InvalidSigner": "交易失败"
+		}
+	}
+}

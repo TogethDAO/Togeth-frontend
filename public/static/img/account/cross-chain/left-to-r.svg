@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="360px" height="115px" viewBox="0 0 360 115" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>right</title>
+    <defs>
+        <linearGradient x1="94.3418517%" y1="50%" x2="-2.65466315%" y2="56.2490771%" id="linearGradient-1">
+            <stop stop-color="#1CCCFF" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="65.6239776%" y1="63.7483112%" x2="14.2526011%" y2="16.6971225%" id="linearGradient-2">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="我的-my-create-operate-01" transform="translate(-255.000000, -523.000000)">
+            <g id="编组-10" transform="translate(177.589844, 523.000000)">
+                <g id="right" transform="translate(77.662246, 0.000000)">
+                    <path d="M192.74791,0 C255.869784,0 312.754387,26.7049294 352.720007,69.4330755 C353.748845,70.5330291 353.382376,71.8309308 352.892289,73.1544579 L352.628271,73.8565957 C352.336816,74.6394501 352.080432,75.4206398 352.120099,76.1648 C348.563949,76.9252264 345.012223,77.6731487 341.464521,78.4099241 C304.160235,38.9576622 251.328373,14.3449782 192.74791,14.3449782 C117.744556,14.3449782 52.164824,54.6923037 16.5291577,114.866512 C11.9860576,114.912328 7.44561949,114.933594 2.91285756,114.933594 C1.93632058,114.933594 0.965368056,114.933998 -2.13609606e-12,114.934805 C37.0380977,46.489504 109.463901,0 192.74791,0 Z" id="形状结合" fill="url(#linearGradient-1)"></path>
+                    <circle id="椭圆形" stroke="url(#linearGradient-2)" stroke-width="2" fill="#13BAEA" cx="347.74791" cy="74" r="11"></circle>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,87 @@
+@import '~antd/dist/antd.css';
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+	html,
+	body {
+		font-family: theme('fontFamily.body');
+		font-size: theme('fontSize.base');
+		background: #fffbe3;
+		color: #162b4a;
+	}
+}
+
+@layer components {
+	.btn-primary {
+		@apply pb-3 pr-2 font-bold bg-center bg-[length:100%_100%] bg-no-repeat bg-[url(/static/img/common/btn_yellow.svg)] hover:bg-[url(/static/img/common/btn_green.svg)];
+	}
+	.btn-primary-longer {
+		@apply pb-3 pr-2 font-bold bg-center bg-[length:100%_100%] bg-no-repeat bg-[url(/static/img/common/btn_yellow_longer.svg)] hover:bg-[url(/static/img/common/btn_green_longer.svg)];
+	}
+	.create-proposal-form {
+		.ant-form-item-label {
+			> label {
+				&.ant-form-item-required:not(.ant-form-item-required-mark-optional)::before {
+					color: #0d2c4d;
+					@apply text-[22px];
+				}
+				@apply text-[22px] font-bold;
+			}
+		}
+		.ant-form-item-control {
+			.ant-input,
+			.ant-input-number,
+			.ant-picker {
+				@apply rounded-[10px] border-[#0D2C4D] font-barlow font-bold;
+			}
+		}
+	}
+}
+
+@layer utilities {
+	.content-auto {
+		content-visibility: auto;
+	}
+	.text-underline-primary {
+		@apply bg-[url(/static/img/common/select-line-primary.png)] bg-no-repeat bg-[length:110%_50%] bg-[left_bottom];
+	}
+	.text-underline-secondary {
+		@apply bg-[url(/static/img/common/select-line-secondary.png)] bg-no-repeat bg-[length:110%_50%] bg-[left_bottom];
+	}
+	.text-stroke-primary {
+		-webkit-text-stroke: 1px #000000;
+	}
+}
+
+.overlap-text {
+	position: relative;
+	color: #000000;
+	z-index: 0;
+	font-size: 54px;
+	&::before {
+		position: absolute;
+		content: attr(data-text);
+		color: white;
+		-webkit-text-stroke: 1px #000000;
+		z-index: -1;
+		left: 18px;
+	}
+}
+
+.ant {
+	svg {
+		vertical-align: baseline;
+	}
+}
+.ant-modal-content {
+	border-radius: 12px;
+}
+.ant-modal-body {
+	padding: 24px;
+}
+
+.ant-btn.ant-btn-primary {
+	background-color: #1890ff;
+}

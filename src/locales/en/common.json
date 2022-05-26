@@ -1,0 +1,57 @@
+{
+	"messages": {
+		"copied": "{{text}} has been copied."
+	},
+	"buttons": {
+		"confirm": "Confirm",
+		"cancel": "Cancel",
+		"complete": "Complete"
+	},
+	"enums": {
+		"walletName": {
+			"NeoLine": "NeoLine",
+			"O3": "O3",
+			"OneGate": "OneGate",
+			"NeonWallet": "NeonWallet"
+		},
+		"walletMainNet": {
+			"NeoLine": "N3 MainNet",
+			"O3": "N3 MainNet",
+			"OneGate": "MainNet",
+			"NeonWallet": "N3 MainNet"
+		},
+		"walletTestNet": {
+			"NeoLine": "N3 TestNet",
+			"O3": "N3 TestNet",
+			"OneGate": "TestNet",
+			"NeonWallet": "N3 TestNet"
+		}
+	},
+	"errors": {
+		"wallet": {
+			"UnknownError": "Unknown wallet error.",
+			"NotInstalled": "Wallet is not installed.",
+			"NotConnected": "Wallet is not connected.",
+			"IncorrectNetwork": "Please switch network to {{walletNetwork}} on {{walletName}} wallet.",
+			"UserRejected": "Request is rejected by user.",
+			"MalformedInput": "Malformed input.",
+			"InsufficientFunds": "Insufficient funds.",
+			"CommunicateFailed": "Communicate failed with wallet.",
+			"RemoteRpcError": "Communicate failed with wallet server.",
+			"VersionNotCompatible": "Wallet version is not compatible, please upgrade to the latest version.",
+			"NoAccount": "No account.",
+			"UnsupportedNetwork": "Unsupported network."
+		},
+		"backend": {
+			"UnknownError": "Unknown request error.",
+			"NetworkError": "Network error.",
+			"BadRequest": "Bad request.",
+			"InternalServiceError": "Internal server error.",
+			"NotFound": "Not found."
+		},
+		"setAdmin": {
+			"IncorrectAdmin": "The admin should be {{accepter}}.",
+			"InvalidSigner": "Invalid transaction."
+		}
+	}
+}

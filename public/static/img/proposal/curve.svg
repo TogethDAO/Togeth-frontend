@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="124px" height="1255px" viewBox="0 0 124 1255" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>curve</title>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="99.0111451%" id="linearGradient-1">
+            <stop stop-color="#FDBD00" offset="0%"></stop>
+            <stop stop-color="#E42945" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="（募集成功）提案详情页面" transform="translate(-658.000000, -1535.000000)" stroke="url(#linearGradient-1)" stroke-width="6">
+            <path d="M742.53412,1538 C649.53911,1611.94531 640.198289,1699.88151 714.511657,1801.80859 C825.981709,1954.69922 750.357302,2042.31509 688.178651,2147.52734 C626,2252.7396 687.678754,2341.60382 757.678754,2477 C804.345421,2567.26412 772.119169,2670.59745 661,2787" id="curve"></path>
+        </g>
+    </g>
+</svg>

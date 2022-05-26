@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg preserveAspectRatio="none" width="349px" height="52px" viewBox="0 0 349 52" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>btn_gray_longer</title>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="（募集中）提案详情页面" transform="translate(-936.000000, -620.000000)" stroke="#1C1C1C" stroke-width="1.5">
+            <g id="btn_gray_longer" transform="translate(936.000000, 620.000000)">
+                <path d="M339.135911,0.784916668 L347.25,10.7569949 L347.25,50.3686441 L11.1787311,50.3686441 L1.04843131,41.6166985 L8.68455806,32.4731738 L339.135911,0.784916668 Z" id="矩形" fill="#D8D8D8"></path>
+                <rect id="矩形" fill="#D8D8D8" x="0.75" y="0.75" width="337.652542" height="39.7881356"></rect>
+                <line x1="339.152542" y1="40.3050847" x2="347.659713" y2="49.7845036" id="路径-19" stroke-linecap="round"></line>
+            </g>
+        </g>
+    </g>
+</svg>
